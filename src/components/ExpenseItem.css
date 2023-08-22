@@ -1,0 +1,21 @@
+.expense_item {
+  display: flex;
+  flex-direction: row;
+  border-radius: 15px;
+  background-color: #4b4b4b;
+}
+.date_container {
+  padding: 10px;
+  /* border: 2px solid rebeccapurple; */
+  color: white;
+}
+.expense_item_description {
+  color: white;
+  padding: 10px;
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  /* border: 2px solid red; */
+  justify-content: space-between;
+  align-items: center;
+}

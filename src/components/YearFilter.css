@@ -1,0 +1,7 @@
+.year_filter_container {
+  color: white;
+  padding: 20px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}

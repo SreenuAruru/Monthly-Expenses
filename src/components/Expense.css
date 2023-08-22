@@ -1,0 +1,9 @@
+.expense_item_container {
+  width: 80%;
+  border-radius: 15px;
+  padding: 20px;
+  background-color: #1f1f1f;
+}
+.no_data_message {
+  color: white;
+}
